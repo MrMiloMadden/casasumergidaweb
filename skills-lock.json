@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "css-animations": {
+      "source": "pluginagentmarketplace/custom-plugin-css",
+      "sourceType": "github",
+      "computedHash": "b9d994878789235f2b784171c50e679516df4de46d34a9d46ec56ece37bc4707"
+    },
+    "next-best-practices": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "computedHash": "c31ddd68ba5798a79a516c619b1e1fc4408cc4876ad600fefa4f5add4425719d"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    }
+  }
+}
